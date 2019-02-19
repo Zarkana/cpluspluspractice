@@ -1,11 +1,6 @@
 #include "StdAfx.h"
 #include "SplashScreen.h"
 
-//#include "stdafx.h"
-//#include "SplashScreen.h"
-//#include "Game.h"
-
-
 void SplashScreen::Show(sf::RenderWindow & renderWindow)
 {
 	sf::Texture image;

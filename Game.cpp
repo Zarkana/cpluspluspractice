@@ -1,8 +1,5 @@
 #include "stdafx.h"
 #include "Game.h"
-#include "MainMenu.h"
-#include "SplashScreen.h"
-
 
 void Game::Start(void)
 {

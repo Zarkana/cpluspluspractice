@@ -1,5 +1,6 @@
 #pragma once
-#include "Game.h"
+#include "SFML\Window.hpp"
+#include "SFML\Graphics.hpp"
 
 class SplashScreen
 {

@@ -1,6 +1,8 @@
 #pragma once
 #include "SFML\Window.hpp"
 #include "SFML\Graphics.hpp"
+#include "MainMenu.h"
+#include "SplashScreen.h"
 
 class Game
 {
